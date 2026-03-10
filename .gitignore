@@ -2,3 +2,7 @@ build/
 *.o
 *.out
 *.log
+
+# Ignore chat history, logs, and config
+chatHistory.txt
+config.ini
